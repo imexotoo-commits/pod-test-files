@@ -1,0 +1,1 @@
+Boogu-Image-0.1-Edit LoRA (rank 32, lr 1e-4, 6 epochs, 106 pairs, 636 steps, DiffSynth 974cfa37) trained on dataset A (source -> low poly pairs made by Boogu itself, Apache-2.0). Use with the plain sentence 'Redraw this exact picture as organic low poly: the same composition, the same pose, the same colors.' at cfg 1.0. Created 2026-10-02.
