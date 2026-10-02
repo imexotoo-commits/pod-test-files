@@ -1,0 +1,1 @@
+CloudB enhancer A/B pictures (project-ironman, task docs/tasks/scene-pool-enhancer-ab.md): 1,200 jpg made by Boogu-Image-0.1-Turbo and ERNIE-Image-Turbo (both Apache-2.0) from our own prompts. Rebuild: cat ab_pictures.tar.part* > ab_pictures.tar ; tar xf ab_pictures.tar. parts.txt has the sha256 of each part.
