@@ -1,0 +1,17 @@
+d41_000.jpg
+d41_001.jpg
+d41_002.jpg
+d41_003.jpg
+d41_004.jpg
+d41_005.jpg
+d41_006.jpg
+d41_007.jpg
+d41_008.jpg
+d41_009.jpg
+d41_010.jpg
+d41_011.jpg
+d41_012.jpg
+d41_013.jpg
+d41_cam1.jpg
+d41_cam2.jpg
+manifest.jsonl
