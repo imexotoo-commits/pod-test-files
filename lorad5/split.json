@@ -1,0 +1,25 @@
+{
+ "holdout": [
+  "p62_083",
+  "p62_100",
+  "p63_028",
+  "p63_109",
+  "p63_163",
+  "p64_001",
+  "p64_038",
+  "p64_045",
+  "p66_015",
+  "p66_093",
+  "p66_110",
+  "p66_228"
+ ],
+ "train": 492,
+ "stay_in_train": 62,
+ "seed": 7,
+ "tars": [
+  "lorad_train_1.tar",
+  "lorad_train_2.tar",
+  "lorad_train_3.tar",
+  "lorad_train_4.tar"
+ ]
+}
