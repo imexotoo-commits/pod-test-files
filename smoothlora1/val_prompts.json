@@ -1,0 +1,86 @@
+[
+ {
+  "id": "sv_archer_old",
+  "prompt": "A archer with a longbow. A miniature sculpted collectible figurine in a chibi style, with an oversized helmet of weathered hammered metal: scratches, rust spots, rivets and a slit visor, a tiny smooth face with two small dark oval eyes, a burlap tunic in olive green, leather belt with a buckle, small heavy gauntlets and chunky boots, standing on a small rough stone as a base, macro photograph, shallow depth of field with a misty forest backdrop softly blurred behind it, soft natural light, tiny details sharp.",
+  "seed": 32001,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "sv_archer_plain",
+  "prompt": "A archer with a longbow. A miniature sculpted collectible figurine in a chibi style, with an oversized steel helmet with a closed hinged visor with breathing holes and an eye slot, the face is hidden behind the visor, a burlap tunic in olive green, leather belt with a buckle, small heavy gauntlets and chunky boots, standing on a small rough stone as a base, macro photograph, shallow depth of field with a misty forest backdrop softly blurred behind it, soft natural light, tiny details sharp.",
+  "seed": 32001,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "sv_standard_old",
+  "prompt": "A standard bearer with a small banner. A miniature sculpted collectible figurine in a chibi style, with an oversized helmet of weathered hammered metal: scratches, rust spots, rivets and a slit visor, a tiny smooth face with two small dark oval eyes, a burlap tunic in crimson, leather belt with a buckle, small heavy gauntlets and chunky boots, standing on a small rough stone as a base, macro photograph, shallow depth of field with a stormy grey backdrop softly blurred behind it, soft natural light, tiny details sharp.",
+  "seed": 32002,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "sv_standard_plain",
+  "prompt": "A standard bearer with a small banner. A miniature sculpted collectible figurine in a chibi style, with an oversized steel helmet with a closed hinged visor with breathing holes and an eye slot, the face is hidden behind the visor, a burlap tunic in crimson, leather belt with a buckle, small heavy gauntlets and chunky boots, standing on a small rough stone as a base, macro photograph, shallow depth of field with a stormy grey backdrop softly blurred behind it, soft natural light, tiny details sharp.",
+  "seed": 32002,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "sv_medic_old",
+  "prompt": "A medic with a leather satchel. A miniature sculpted collectible figurine in a chibi style, with an oversized helmet of weathered hammered metal: scratches, rust spots, rivets and a slit visor, a tiny smooth face with two small dark oval eyes, a burlap tunic in sand beige, leather belt with a buckle, small heavy gauntlets and chunky boots, standing on a small rough stone as a base, macro photograph, shallow depth of field with a warm sunset backdrop softly blurred behind it, soft natural light, tiny details sharp.",
+  "seed": 32003,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "sv_medic_plain",
+  "prompt": "A medic with a leather satchel. A miniature sculpted collectible figurine in a chibi style, with an oversized steel helmet with a closed hinged visor with breathing holes and an eye slot, the face is hidden behind the visor, a burlap tunic in sand beige, leather belt with a buckle, small heavy gauntlets and chunky boots, standing on a small rough stone as a base, macro photograph, shallow depth of field with a warm sunset backdrop softly blurred behind it, soft natural light, tiny details sharp.",
+  "seed": 32003,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "sv_blacksmith_old",
+  "prompt": "A blacksmith with a heavy hammer. A miniature sculpted collectible figurine in a chibi style, with an oversized helmet of weathered hammered metal: scratches, rust spots, rivets and a slit visor, a tiny smooth face with two small dark oval eyes, a burlap tunic in charcoal grey, leather belt with a buckle, small heavy gauntlets and chunky boots, standing on a small rough stone as a base, macro photograph, shallow depth of field with a dark workshop backdrop softly blurred behind it, soft natural light, tiny details sharp.",
+  "seed": 32004,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "sv_blacksmith_plain",
+  "prompt": "A blacksmith with a heavy hammer. A miniature sculpted collectible figurine in a chibi style, with an oversized steel helmet with a closed hinged visor with breathing holes and an eye slot, the face is hidden behind the visor, a burlap tunic in charcoal grey, leather belt with a buckle, small heavy gauntlets and chunky boots, standing on a small rough stone as a base, macro photograph, shallow depth of field with a dark workshop backdrop softly blurred behind it, soft natural light, tiny details sharp.",
+  "seed": 32004,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "sv_watchman_old",
+  "prompt": "A watchman with a horn. A miniature sculpted collectible figurine in a chibi style, with an oversized helmet of weathered hammered metal: scratches, rust spots, rivets and a slit visor, a tiny smooth face with two small dark oval eyes, a burlap tunic in navy blue, leather belt with a buckle, small heavy gauntlets and chunky boots, standing on a small rough stone as a base, macro photograph, shallow depth of field with a night street backdrop softly blurred behind it, soft natural light, tiny details sharp.",
+  "seed": 32005,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "sv_watchman_plain",
+  "prompt": "A watchman with a horn. A miniature sculpted collectible figurine in a chibi style, with an oversized steel helmet with a closed hinged visor with breathing holes and an eye slot, the face is hidden behind the visor, a burlap tunic in navy blue, leather belt with a buckle, small heavy gauntlets and chunky boots, standing on a small rough stone as a base, macro photograph, shallow depth of field with a night street backdrop softly blurred behind it, soft natural light, tiny details sharp.",
+  "seed": 32005,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "sv_squire_old",
+  "prompt": "A squire with a wooden sword. A miniature sculpted collectible figurine in a chibi style, with an oversized helmet of weathered hammered metal: scratches, rust spots, rivets and a slit visor, a tiny smooth face with two small dark oval eyes, a burlap tunic in rust orange, leather belt with a buckle, small heavy gauntlets and chunky boots, standing on a small rough stone as a base, macro photograph, shallow depth of field with a grassy meadow backdrop softly blurred behind it, soft natural light, tiny details sharp.",
+  "seed": 32006,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "sv_squire_plain",
+  "prompt": "A squire with a wooden sword. A miniature sculpted collectible figurine in a chibi style, with an oversized steel helmet with a closed hinged visor with breathing holes and an eye slot, the face is hidden behind the visor, a burlap tunic in rust orange, leather belt with a buckle, small heavy gauntlets and chunky boots, standing on a small rough stone as a base, macro photograph, shallow depth of field with a grassy meadow backdrop softly blurred behind it, soft natural light, tiny details sharp.",
+  "seed": 32006,
+  "width": 1024,
+  "height": 1024
+ }
+]
