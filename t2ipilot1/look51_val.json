@@ -1,0 +1,58 @@
+[
+ {
+  "id": "d51_075",
+  "prompt": "lp51, A subway route diagram with labelled landmarks and tiny drawings, on aged parchment. Layout: A bold title banner at the top, the main drawing filling the middle, a legend and small notes at the bottom. Colours: autumn greens, golds and browns.",
+  "seed": 51075,
+  "width": 1280,
+  "height": 1280
+ },
+ {
+  "id": "d51_102",
+  "prompt": "lp51, A baby wyvern on a snowy branch, with large expressive eyes. Low camera looking up with strong perspective. The animal large in frame, soft foreground plants, a blurred natural background. At night under a huge moon, pastel pinks, mints and soft yellows.",
+  "seed": 51102,
+  "width": 1152,
+  "height": 1536
+ },
+ {
+  "id": "d51_139",
+  "prompt": "lp51, A cobbled hill lane with steps in a flower-filled meadow, in dark basalt, at sunrise with long shadows. A symmetrical front view. Banners and washing lines strung across the street, a stair climbing to a tall tower in the distance. Colours: ice blues and silver.",
+  "seed": 51139,
+  "width": 1536,
+  "height": 1024
+ },
+ {
+  "id": "d51_206",
+  "prompt": "lp51, A barber shop with a spiral stair, with neon signs glowing, at sunrise with long shadows. Eye-level three-quarter view. Tools laid out in the foreground, the main workstation in the midground, a glowing doorway behind. Colours: pastel pinks, mints and soft yellows.",
+  "seed": 51206,
+  "width": 1280,
+  "height": 1280
+ },
+ {
+  "id": "d51_212",
+  "prompt": "lp51, A canyon with a river at the foot of tall peaks, after rain with wet rocks, at dusk. A close composition with a strong focal point. Water in the foreground catching the sky, the land stepping back in three layers, tiny birds overhead. Colours: a limited palette of three colours and cream.",
+  "seed": 51212,
+  "width": 1408,
+  "height": 1056
+ },
+ {
+  "id": "d51_215",
+  "prompt": "lp51, A sandstorm approaching a camp behind a lone tree, with dramatic clouds, at golden hour. Low camera looking up with strong perspective. A sheltered foreground with one detailed object, the main weather event in the midground, far horizon behind. Colours: a limited palette of three colours and cream.",
+  "seed": 51215,
+  "width": 1536,
+  "height": 1024
+ },
+ {
+  "id": "d51_226",
+  "prompt": "lp51, A cheese board beside a folded napkin, under a warm lamp, at blue hour just after sunset. An isometric view from above. The hero items in the foreground, supporting objects in the midground, a plain wall and shadow behind. Colours: high contrast black, white and one neon colour.",
+  "seed": 51226,
+  "width": 1408,
+  "height": 1056
+ },
+ {
+  "id": "d51_254",
+  "prompt": "lp51, A street chef on a rooftop, with a bold red scarf. A close composition with a strong focal point. The full figure large in frame, a few small props around, a simple scene behind. At dusk, muted earth tones with one bright accent.",
+  "seed": 51254,
+  "width": 1280,
+  "height": 1280
+ }
+]

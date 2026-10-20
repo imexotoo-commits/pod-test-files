@@ -1,0 +1,58 @@
+[
+ {
+  "id": "paper_boogu__pc002",
+  "prompt": "facetpaper, A young mage with a tall staff and a long cape. A papercraft low poly figure: skin, hair and clothes are all made of small folded triangular paper facets, with an embossed geometric pattern on the clothing and simple round black dot eyes. Chibi proportions, three quarter view, full body, soft diffused studio light on a plain muted grey green backdrop.",
+  "seed": 7000,
+  "width": 1088,
+  "height": 1472
+ },
+ {
+  "id": "paper_r2a__pe017",
+  "prompt": "facetpaper, A windmill with turning sails, in a tulip field. A papercraft low poly miniature: everything in the scene is made of small folded triangular paper facets with an embossed geometric pattern, matte paper with visible fibre grain, a miniature diorama in soft diffused studio light, muted grey green tones.",
+  "seed": 7034,
+  "width": 1088,
+  "height": 1472
+ },
+ {
+  "id": "paper_r2a__pe023",
+  "prompt": "facetpaper, A painter at an easel with a palette, in a seaside cliff. A papercraft low poly figure: skin, hair and clothes are all made of small folded triangular paper facets, with an embossed geometric pattern on the clothing and simple round black dot eyes. Chibi proportions, full body, the whole scene is a miniature papercraft diorama with the same small folded facets and embossed patterns, soft diffused studio light, muted grey green tones.",
+  "seed": 7035,
+  "width": 1088,
+  "height": 1472
+ },
+ {
+  "id": "paper_r2a__pe031",
+  "prompt": "facetpaper, A stack of three teapots and cups, in a kitchen table by a window. A papercraft low poly miniature: everything in the scene is made of small folded triangular paper facets with an embossed geometric pattern, matte paper with visible fibre grain, a miniature diorama in soft diffused studio light, muted grey green tones.",
+  "seed": 7037,
+  "width": 1088,
+  "height": 1472
+ },
+ {
+  "id": "paper_r2a__pe032",
+  "prompt": "facetpaper, A hot air balloon with a basket, in a cloud filled sky above mountains. A papercraft low poly miniature: everything in the scene is made of small folded triangular paper facets with an embossed geometric pattern, matte paper with visible fibre grain, a miniature diorama in soft diffused studio light, muted grey green tones.",
+  "seed": 7038,
+  "width": 1472,
+  "height": 1088
+ },
+ {
+  "id": "paper_r2b__pe054",
+  "prompt": "facetpaper, A knight resting against a tree with a sleeping dragon, in a forest clearing. A papercraft low poly figure: skin, hair and clothes are all made of small folded triangular paper facets, with an embossed geometric pattern on the clothing and simple round black dot eyes. Chibi proportions, full body, the whole scene is a miniature papercraft diorama with the same small folded facets and embossed patterns, soft diffused studio light, muted grey green tones.",
+  "seed": 7045,
+  "width": 1088,
+  "height": 1472
+ },
+ {
+  "id": "paper_r2b__pe067",
+  "prompt": "facetpaper, A ninja crouched on a roof tile, in a moonlit pagoda rooftop. A papercraft low poly figure: skin, hair and clothes are all made of small folded triangular paper facets, with an embossed geometric pattern on the clothing and simple round black dot eyes. Chibi proportions, full body, the whole scene is a miniature papercraft diorama with the same small folded facets and embossed patterns, soft diffused studio light, muted grey green tones.",
+  "seed": 7050,
+  "width": 1088,
+  "height": 1472
+ },
+ {
+  "id": "paper_r2b__pe088",
+  "prompt": "facetpaper, A camel driver leading two camels, in a desert oasis with palm trees. A papercraft low poly figure: skin, hair and clothes are all made of small folded triangular paper facets, with an embossed geometric pattern on the clothing and simple round black dot eyes. Chibi proportions, full body, the whole scene is a miniature papercraft diorama with the same small folded facets and embossed patterns, soft diffused studio light, muted grey green tones.",
+  "seed": 7062,
+  "width": 1088,
+  "height": 1472
+ }
+]
