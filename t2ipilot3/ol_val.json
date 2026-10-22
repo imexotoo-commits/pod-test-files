@@ -1,0 +1,58 @@
+[
+ {
+  "id": "ol1_lowpoly_007",
+  "prompt": "Two Canada geese walking side by side across a lawn, long black necks and white cheek patches. A calm blue dusk with warm lit windows, a wide shot showing the whole scene.",
+  "seed": 81091,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "ol1_lowpoly_001",
+  "prompt": "A row of narrow row houses with small balconies and different coloured doors. Soft diffused light after rain, a low angle looking up a little.",
+  "seed": 81013,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "ol1_lowpoly_011",
+  "prompt": "A power plant with a tall red-and-white striped chimney and a shorter tan chimney, bare trees and a pale moon. Warm low evening sun with long shadows, a wide shot showing the whole scene.",
+  "seed": 81143,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "ol1_lowpoly_000",
+  "prompt": "Grey roof shingles in overlapping rows, speckled with the shadows of bare branches. Cool overcast daylight, a slightly raised three-quarter view.",
+  "seed": 81000,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "ol1_lowpoly_010",
+  "prompt": "A mid-rise apartment building with rows of balconies and a rounded roofline. Bright clear midday light, a slightly raised three-quarter view.",
+  "seed": 81130,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "ol1_lowpoly_015",
+  "prompt": "A grey shingle roof with long shadows of tree branches across it. Warm low evening sun with long shadows, a close-up filling the frame.",
+  "seed": 81195,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "ol2_lowpoly_000",
+  "prompt": "An ice dragon next to a stream, sunrise glow on the horizon",
+  "seed": 98695,
+  "width": 1216,
+  "height": 832
+ },
+ {
+  "id": "ol1_lowpoly_022",
+  "prompt": "A tall steel lattice electricity pylon over autumn trees and a small brick house. Warm low evening sun with long shadows, a low angle looking up a little.",
+  "seed": 81286,
+  "width": 1024,
+  "height": 1024
+ }
+]

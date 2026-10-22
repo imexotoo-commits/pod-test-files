@@ -1,0 +1,1 @@
+Big Look 51 LoRA data, part 2 (2026-10-22): the user-picked dense low poly pictures of the own-look rounds (CloudB ourlook1 + ourlook2 pools, Boogu-Image-0.1-Turbo, generated only, no photographs, no people), 260 training pictures with subject-only captions, 8 held-out prompts in ol_val.json. Part 1 is t2ipilot1/look51.tar.
