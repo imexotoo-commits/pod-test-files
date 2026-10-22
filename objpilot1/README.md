@@ -1,0 +1,1 @@
+objpilot.tar: 8 object cut-outs (cars with blurred plates, goose, chimney, 2 houses, tree, power tower) from the user's cleaned photos on a light grey 1024x1024 canvas. Input for project-ironman training/chain_objpilot_job.sh (low poly / ultra low poly object pictures).
