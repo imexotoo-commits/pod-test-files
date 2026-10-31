@@ -1,0 +1,2 @@
+# shields1 (CloudG, 2026-10-31): shield LoRA training set, GENERATED pictures only
+184 Boogu-Image-Turbo shield pictures (shields alone on parchment, no people), captions = shield type + surface + emblem, no trigger word. 16 validation prompts in shields_val.json (8 held-out shield prompts, 8 knight-with-shield prompts). Published to the public repo with the user's OK (2026-10-31). Used by project-ironman training/trackShieldLoRA_job.sh.
