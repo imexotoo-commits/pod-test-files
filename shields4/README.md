@@ -1,0 +1,2 @@
+# shields4 (CloudG, 2026-10-31): shield LoRA set 4, GENERATED pictures only
+shields3 (143 flat shields, tower-shield captions) + 70 screened knights/soldiers with ONE plain shield, captioned with the failing sentence ("... a tower shield on the back" / "holding a tower shield"). 22 validation prompts incl. the original failing knight with 3 seeds. Public with the user OK (knights added for this one fix).
