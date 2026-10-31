@@ -1,0 +1,135 @@
+[
+ {
+  "id": "sb003_heater_emblem_s1",
+  "prompt": "a heater shield with a flat smooth surface, solid flat mustard yellow paint, a painted emblem: a red dragon, painterly illustration of a shield on its own on a plain parchment background",
+  "seed": 1,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "sb017_kite_emblem_s1",
+  "prompt": "a kite shield with a flat smooth surface, solid flat forest green paint, a painted emblem: a wide white cross, painterly illustration of a shield on its own on a plain parchment background",
+  "seed": 1,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "sb031_round_emblem_s1",
+  "prompt": "a round shield with a flat smooth surface, solid flat royal blue paint, a painted emblem: a golden sun with rays, painterly illustration of a shield on its own on a plain parchment background",
+  "seed": 1,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "sb038_heater_emblem_s1",
+  "prompt": "a heater shield with a flat smooth surface, polished silver steel, a painted emblem: a wolf head, painterly illustration of a shield on its own on a plain parchment background",
+  "seed": 1,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "sb052_kite_emblem_s1",
+  "prompt": "a kite shield with a flat smooth surface, smooth leather stretched over wood, a painted emblem: a wide white cross, painterly illustration of a shield on its own on a plain parchment background",
+  "seed": 1,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "sb059_scutum_emblem_s1",
+  "prompt": "a tall curved rectangular shield with a flat smooth surface, solid flat matte black paint, a painted emblem: a crescent moon and a star, painterly illustration of a shield on its own on a plain parchment background",
+  "seed": 1,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "sb066_round_emblem_s1",
+  "prompt": "a round shield with a flat smooth surface, solid flat ivory paint, a painted emblem: a crescent moon and a star, painterly illustration of a shield on its own on a plain parchment background",
+  "seed": 1,
+  "width": 1024,
+  "height": 1024
+ },
+ {
+  "id": "knight1",
+  "prompt": "a heavily armoured knight with a plumed helmet and a tower shield on the back, blue and silver colours, painterly illustration",
+  "seed": 1,
+  "width": 768,
+  "height": 1152
+ },
+ {
+  "id": "knight2",
+  "prompt": "a knight in plate armour holding a tower shield in front of him, painterly illustration, plain parchment background",
+  "seed": 1,
+  "width": 768,
+  "height": 1152
+ },
+ {
+  "id": "knight3",
+  "prompt": "a soldier with a large tower shield on his arm and a spear, painterly illustration, plain parchment background",
+  "seed": 1,
+  "width": 768,
+  "height": 1152
+ },
+ {
+  "id": "knight4",
+  "prompt": "a tower shield, painterly illustration of a shield on its own on a plain parchment background",
+  "seed": 1,
+  "width": 768,
+  "height": 1152
+ },
+ {
+  "id": "knight5",
+  "prompt": "a knight in plate armour holding a large kite-shaped shield across the body, painterly illustration, plain parchment background",
+  "seed": 1,
+  "width": 768,
+  "height": 1152
+ },
+ {
+  "id": "knight6",
+  "prompt": "a female soldier in mail armour carrying a round shield at her left side, painterly illustration, plain parchment background",
+  "seed": 1,
+  "width": 768,
+  "height": 1152
+ },
+ {
+  "id": "knight7",
+  "prompt": "a Roman legionary in a red tunic holding a tall curved rectangular shield in front of him, painterly illustration, plain parchment background",
+  "seed": 1,
+  "width": 768,
+  "height": 1152
+ },
+ {
+  "id": "knight8",
+  "prompt": "a knight in blue and silver plate armour with a plumed helmet and a heater shield held at the side, painterly illustration",
+  "seed": 1,
+  "width": 768,
+  "height": 1152
+ },
+ {
+  "id": "knight9",
+  "prompt": "a bearded warrior with a round wooden shield on his arm, painterly illustration, plain parchment background",
+  "seed": 1,
+  "width": 768,
+  "height": 1152
+ },
+ {
+  "id": "knight10",
+  "prompt": "a knight with a kite shield and a sword, standing in a front view, painterly illustration, plain parchment background",
+  "seed": 1,
+  "width": 768,
+  "height": 1152
+ },
+ {
+  "id": "knight11",
+  "prompt": "a city guard holding a plain wooden heater shield, painterly illustration, plain parchment background",
+  "seed": 1,
+  "width": 768,
+  "height": 1152
+ },
+ {
+  "id": "knight12",
+  "prompt": "a crusader in a white surcoat holding a plain steel kite shield, painterly illustration, plain parchment background",
+  "seed": 1,
+  "width": 768,
+  "height": 1152
+ }
+]
